@@ -1,3 +1,5 @@
+![Secure Login GUI](<img width="1536" height="1024" alt="ChatGPT Image Mar 3, 2026, 07_47_10 PM" src="https://github.com/user-attachments/assets/0a11e315-a6e1-420b-a83d-cb7c6f15cc70" />
+.png)
 # Secure Login GUI with Brute-Force Detection
 
 ## Description
