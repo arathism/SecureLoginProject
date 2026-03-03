@@ -1,4 +1,5 @@
-![Secure Login GUI](secure_login.png)
+![Secure Login GUI](<img width="1536" height="1024" alt="Secure login,png" src="https://github.com/user-attachments/assets/3ce3f6cf-0935-4570-9858-5a454c26cbb0" />
+)
 # Secure Login GUI with Brute-Force Detection
 
 ## Description
